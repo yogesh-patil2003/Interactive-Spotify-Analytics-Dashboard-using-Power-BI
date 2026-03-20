@@ -117,8 +117,11 @@ DIVIDE([Explicit Songs], [Total Songs], 0)
 
 ## 🖼️ Dashboard Preview
 
-👉 *<img width="1246" height="710" alt="Screenshot 2026-03-20 173100" src="https://github.com/user-attachments/assets/454bcbc9-6f99-42b4-ac68-a686079e554a" />
+👉 <img width="1246" height="710" alt="Screenshot 2026-03-20 173100" src="https://github.com/user-attachments/assets/454bcbc9-6f99-42b4-ac68-a686079e554a" />
 
+<img width="1313" height="736" alt="Screenshot 2026-03-20 173015" src="https://github.com/user-attachments/assets/1af5c64d-47b3-4813-b6ce-b0ae3a1ea587" />
+
+<img width="1315" height="792" alt="Screenshot 2026-03-20 181436" src="https://github.com/user-attachments/assets/a904b076-b650-4b6d-b3e3-108947c3c2ba" />
 
 
 ```
@@ -146,7 +149,7 @@ DIVIDE([Explicit Songs], [Total Songs], 0)
 
 ## 📚 References
 
-* Spotify Dataset (Kaggle / Open Source)
+* Spotify Dataset (Open Source)
 * Microsoft Power BI Documentation
 * DAX Documentation
 
@@ -154,9 +157,9 @@ DIVIDE([Explicit Songs], [Total Songs], 0)
 
 ## 👤 Author
 
-**Yogesh Patil **
+*Yogesh Patil*
 
-* GitHub: https://github.com/yogesh-patil2003/
+* GitHub: *(https://github.com/yogesh-patil2003/)*
 * LinkedIn: *(https://www.linkedin.com/in/yogeshpatil2003/)*
 
 ---
